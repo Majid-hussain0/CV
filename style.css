@@ -1,0 +1,25 @@
+.table{
+    background-color: rgb(0, 0, 0);
+    width: 50rem;
+    height: 18.75rem;
+    margin-left: 17.5rem;
+    text-align: center;
+    margin-top: 8.125rem;
+    font-size: 30px;
+    color: white;
+    box-shadow: inset;
+    border-color: blue;
+    
+    
+}
+body{
+    background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 95%;
+    height: 500px;
+}
+.face:hover{
+    color: aqua;
+    opacity: 10;
+}

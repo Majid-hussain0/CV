@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+
+    
+}
+.picture{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    }
+.head{
+    text-align: center;
+    background-color: rgb(93, 73, 45);
+    border-radius: 10px;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+
+
+    
+}
+h1{
+    background-color: rgb(62, 54, 43);
+    font-family: 'Merriweather', serif;
+    color: white;
+}
+.btn{
+    height: 30px;
+    width: 120px;
+    margin-left: 1000px;
+    background-color: rgb(148, 179, 223);
+    border-radius: 20px;
+    border-color: rgb(255, 0, 0);
+    border-style: double;
+}
+a:hover{
+    opacity: 5%;
+}
+.font{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
