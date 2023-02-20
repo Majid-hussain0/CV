@@ -16,7 +16,7 @@ body{
     background-image: url("majid personalsite/images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 95%;
+    width: 100%;
     height: 500px;
 }
 .face:hover{
